@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi the Here are some ideas to get you started:
 
-<!--
-**jhonata66/jhonata66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome e jhonata
 
-Here are some ideas to get you started:
+- estou estudando na alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem javascript
+
+-utilizo esse espaco para minha organizacao e compartilhamento dos meu projetos desenvolvidos
+
+### Voce entrar em contato comigo 📧
+
+0000110586909xsp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/naruto-gif-25677514)
